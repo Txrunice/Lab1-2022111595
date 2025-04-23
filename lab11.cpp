@@ -1016,3 +1016,5 @@ int main(int argc, char* argv[]) {
 //第二次修改
 
 //Modified files in B2 branch
+
+//IDE中使用Git管理程序
